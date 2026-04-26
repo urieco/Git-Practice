@@ -1,0 +1,25 @@
+{
+  "name": "dev_template",
+  "version": "1.0.0",
+  "description": "dev repo template",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scriptsComments": {
+    "test": "Comment for test script"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "engines": {
+    "node": ">=18.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.1.0"
+  },
+  "devDependenciesComments": {
+    "eslint": "Static code analysis tool for identifying problematic patterns found in JavaScript"
+  }
+}
